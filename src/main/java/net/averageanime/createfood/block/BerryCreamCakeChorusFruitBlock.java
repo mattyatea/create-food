@@ -20,7 +20,7 @@ import net.minecraft.world.WorldAccess;
 import net.minecraft.world.event.GameEvent;
 import vectorwing.farmersdelight.common.tag.ModTags;
 import vectorwing.farmersdelight.common.utility.ItemUtils;
-
+ 
 public class BerryCreamCakeChorusFruitBlock extends CakeBlock {
 
     public final Item cakeSlice;
